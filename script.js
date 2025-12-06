@@ -42,7 +42,7 @@ const textos = {
 
     pasta: `
     <div class='detalle'>
-        <h3>❄️ Cambio de Pasta Térmica Premium - Tratamiento Térmico Real</h3>
+        <h3>❄️ THERMAL BOOST – Enfriamiento MX</h3>
         <p><strong>Bajar temperaturas es un arte. Nosotros nos encargamos.</strong></p>
         <p>La pasta térmica se degrada con el tiempo. La cambiamos con técnica profesional y materiales de primera para reducir temperaturas y evitar throttling.</p>
         
@@ -75,7 +75,7 @@ const textos = {
 
     optimizacion: `
     <div class='detalle'>
-        <h3>🔍 Diagnóstico y Mejoras (SSD, salud de disco y recomendaciones)</h3>
+        <h3>SYSTEM BOOST – Modo Bestia (SSD, salud de disco y recomendaciones)</h3>
         <p><strong>Determinamos qué está afectando el rendimiento real de tu equipo y proponemos mejoras concretas.</strong></p>
         <p>Este servicio está pensado para diagnosticar discos (HDD/SSD), evaluar salud del SSD, tiempos de arranque, y proponer acciones: clonación a SSD, optimización de almacenamiento, o recomendaciones de componentes.</p>
         
@@ -84,7 +84,7 @@ const textos = {
             <li><strong>Salud del disco:</strong> SMART, lectura/escritura, sectores defectuosos</li>
             <li><strong>Velocidad de arranque:</strong> Medición antes/después</li>
             <li><strong>Clonación opcional:</strong> Si conviene migrar a SSD</li>
-            <li><strong>Recomendación de mejoras:</strong> SSD, RAM, ajustes de sistema</li>
+            <li><strong>Recomendación de mejoras:</strong> ajustes de sistema,SSD, RAM, tarjeta grafica, procesador</li>
             <li><strong>Reporte técnico:</strong> Resultados y pasos recomendados por escrito</li>
         </ul>
         
@@ -96,7 +96,7 @@ const textos = {
 
     ssd: `
     <div class='detalle'>
-        <h3>🚀 Instalación de SSD NVMe - La Mayor Mejora Que Harás</h3>
+        <h3>SSD OVERDRIVE – Turbo MX</h3>
         <p><strong>De 2 minutos de espera a 15 segundos. La diferencia más notoria que verás en tu PC.</strong></p>
         <p>El SSD es la mejora más impactante. Todo cambia. Todo es más rápido. Todo fluye.</p>
         
@@ -138,7 +138,7 @@ const textos = {
 
     ps4: `
     <div class='detalle'>
-        <h3>👑 Mantenimiento Completo PS4 - Spa para tu Consola</h3>
+        <h3>PS4 SILENT MODE – Anti Turbina</h3>
         <p><strong>Tu PS4 suena como jet. Hora de que descanse como reina.</strong></p>
         <p>La PS4 es guerrera. Juega horas. Se calienta. Acumula polvo. Necesita spa. Nosotros la cuidamos.</p>
         
@@ -181,7 +181,7 @@ const textos = {
 
     xbox: `
     <div class='detalle'>
-        <h3>👑 Xbox One / Series S/X – Servicio VIP Completo</h3>
+        <h3>XBOX ICE BOOST – Estabilidad Pro</h3>
         <p><strong>La Xbox más potente del mundo merece el mejor cuidado del mundo.</strong></p>
         <p>Xbox Series X es una potencia. Exige cuidados especiales. Nosotros sabemos cómo mantenerla en su prime.</p>
         
@@ -226,7 +226,7 @@ const textos = {
 
     switch: `
     <div class='detalle'>
-        <h3>👑 Nintendo Switch – Servicio Premium Portátil</h3>
+        <h3>SWITCH COOL FIX – Control Térmico</h3>
         <p><strong>La Switch más amada merece el mejor cuidado. Portátil, potente, ¡y merecidamente delicada!</strong></p>
         <p>Switch es diferente. Portátil. Compleja. Pequeñita pero potente. Necesita manos expertas.</p>
         
@@ -401,4 +401,5 @@ if (document.readyState === 'loading'){
 } else {
     initSparkles({count:22});
 }
+
 
