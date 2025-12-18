@@ -237,17 +237,17 @@ h1{
 
 .item.activo{
     border:2px solid #ff9ff3;
-    background:linear-gradient(135deg, rgba(255,159,243,0.25) 0%, rgba(185,102,255,0.15) 100%);
+    background:linear-gradient(135deg, rgba(28, 0, 24, 0.25) 0%, rgba(185,102,255,0.15) 100%);
     box-shadow:0 0 25px rgba(255,159,243,0.5);
 }
 
 .detalle{
     margin:15px 0 20px 0;
-    background:linear-gradient(135deg, rgba(255,159,243,0.12) 0%, rgba(185,102,255,0.08) 100%);
+    background:linear-gradient(135deg, rgba(66, 0, 58, 0.12) 0%, rgba(185,102,255,0.08) 100%);
     padding:20px;
     border-radius:15px;
     border:2px solid #ff9ff3;
-    border-left:6px solid #ff9ff3;
+    border-left:6px solid #f2c2ec;
     border-right:6px solid #b266ff;
     max-height:none;
     opacity:1;
