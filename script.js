@@ -54,7 +54,7 @@ const textos = {
             <li><strong>Reporte Técnico:</strong> Documentación completa del servicio realizado</li>
         </ul>
         
-        <p style="margin:15px 0;"><strong>⏱️ Tiempo:</strong> 2-3 horas | <strong>💰 Precio:</strong> MX$950</p>
+        <p style="margin:15px 0;"><strong>⏱️ Tiempo:</strong> 2-3 horas aprox </p>
         <p style="margin:15px 0;"><strong>📊 RESULTADOS TÉCNICOS ESPERADOS:</strong></p>
         <ul>
             <li>🌡️ Reducción de temperatura: 15-20°C en componentes críticos</li>
@@ -65,11 +65,7 @@ const textos = {
         
         <p><strong>🛡️ Garantía: 30 días | Incluye Reporte Técnico Detallado</strong></p>
         <p style="color:#d0d0ff; font-size:0.95em;">Tu PC sale con rendimiento óptimo, temperaturas controladas y funcionamiento certificado. Reserva por WhatsApp o inbox — servicio profesional garantizado.</p>
-        <p> 
-        <strong>Precio regular:</strong> <s>$950 MXN</s><br>
-        <strong>Descuento por apertura navideña🎄</strong> –$350 MXN<br>
-        🔥 <strong >Total hoy: $600 MXN</strong>
-        </p>
+      
         <p style="margin:12px 0; color:#fff7; font-size:0.95em;"><strong>Caso técnico documentado (ejemplo real):</strong> En una Asus TUF A15 (Ryzen 7) realizamos limpieza completa con aire comprimido industrial, mantenimiento de sistema de enfriamiento, y verificación de todos los componentes. Con pruebas antes/después en stress test el CPU mostró reducción de ~32°C y la GPU ~16°C. Los resultados varían según el estado del equipo y condiciones de uso.</p>
     </div>
     `,
@@ -92,7 +88,7 @@ const textos = {
             <li><strong>Monitoreo de Estabilización:</strong> Verificación térmica durante 30 minutos</li>
         </ul>
         
-        <p style="margin:15px 0;"><strong>⏱️ Tiempo:</strong> 45 minutos - 1 hora | <strong>💰 Precio:</strong> MX$400 - MX$650</p>
+        <p style="margin:15px 0;"><strong>⏱️ Tiempo:</strong>  2.5 horas aprox </p>
         <p style="margin:15px 0;"><strong>📊 RESULTADOS TÉCNICOS ESPERADOS:</strong></p>
         <ul>
             <li>🌡️ Reducción térmica: 10-15°C en carga máxima</li>
@@ -100,11 +96,7 @@ const textos = {
             <li>🔧 Eficiencia energética: Menor consumo por mejor disipación</li>
             <li>📈 Longevidad extendida: 3-5 años adicionales de vida útil</li>
         </ul>
-        <p> 
-        <strong>Precio regular:</strong> <s>$800 MXN</s><br>
-        <strong>Descuento por apertura navideña🎄</strong> –$350 MXN<br>
-        🔥 <strong >Total hoy: $450 MXN</strong>
-        </p>
+      
         
         <p style="margin:15px 0;"><strong>🏆 COMPUESTOS PREMIUM UTILIZADOS:</strong> Arctic MX-4 | Arctic MX-6 (según especificaciones técnicas)</p>
         <p><strong>🛡️ Garantía: 6 meses | Incluye Reporte Térmico Certificado</strong></p>
@@ -128,11 +120,7 @@ const textos = {
         </ul>
         
         <p style="margin:15px 0;"><strong>⏱️ Tiempo aproximado:</strong> 45 min - 1.5 horas </p>
-        <p> 
-        <strong>Precio regular:</strong> <s>$300 MXN</s><br>
-        <strong>Descuento por apertura navideña🎄</strong> –$100 MXN<br>
-        🔥 <strong >Total hoy: $200 MXN | Gratis al contratar cualquier otro servicio para tu computadora o laptop</strong>
-        </p>
+    
         <p style="margin:15px 0;"><strong>📌 TIENDA (KiraTesh Store):</strong> Ofreceremos componentes y SSD recomendados en nuestra tienda (KiraTesh Store) próximamente.</p>
         <p style="color:#d0d0ff; font-size:0.95em;">Servicio ideal si sospechas que tu disco está lento, falla o quieres migrar a SSD con seguridad. Incluye reporte y opción de cotización.</p>
     </div>
@@ -158,12 +146,7 @@ const textos = {
             <li><strong>Stress Test:</strong> Verificación de estabilidad completa</li>
         </ul>
         
-        <p style="margin:15px 0;"><strong>⏱️ Tiempo:</strong> 1 - 2 horas </p>
-        <p>
-        <strong>Descuento por apertura navideña</strong> –$350 MXN, pida su descuento al agendar<br>
-        </p>
-        <p style="margin:15px 0;"><strong>📊 RESULTADOS ESPERADOS:</strong></p>
-        <ul>
+        
             <li>⚡ Boot (arranque): De 120s a 15-20s</li>
             <li>📁 Apertura de archivos: Instantáneo</li>
             <li>🎮 Carga de juegos: 50-70% más rápido</li>
@@ -173,10 +156,7 @@ const textos = {
         
         <p style="margin:15px 0;"><strong>💾 SSD RECOMENDADOS:</strong> Samsung 990 Pro | WD Black | Kingston Fury Beast | Seagate FireCuda</p>
         <p style="margin:15px 0;"><strong>📌 OPCIONES POPULARES:</strong></p>
-        <ul>
-        
-            <li>Premium: SSD 1TB Kingston nv3 PCIe 4.0 (MX$1,050) + Instalación</li>
-        </ul>
+       
         <p><strong>🛡️ Garantía: Hardware según fabricante + 30 días servicio | Incluye Reporte Técnico</strong></p>
         <p style="color:#d0d0ff; font-size:0.95em;">La mejora MÁS importante que puedes hacer a una PC vieja. Cambia completamente la experiencia.</p>
     </div>
@@ -209,11 +189,7 @@ const textos = {
             <li>🎮 Experiencia de juego: Funcionamiento continuo sin interrupciones</li>
             <li>📈 Extensión de vida útil: 2-3 años adicionales de funcionamiento óptimo</li>
         </ul>
-           <p> 
-        <strong>Precio regular:</strong> <s>$750 MXN</s><br>
-        <strong>Descuento por apertura navideña🎄</strong> –$350 MXN<br>
-        🔥 <strong >Total hoy: $400 MXN</strong>
-        </p>
+     
         <p style="margin:15px 0;"><strong>🛠️ SERVICIO TÉCNICO COMPLETO:</strong></p>
         <p><strong>🛡️ Garantía: 60 días | Incluye Reporte Técnico Certificado</strong></p>
         <p style="color:#d0d0ff; font-size:0.95em;">Servicio recomendado para PS4 con más de 3 años de uso intenso que presentan síntomas de desgaste térmico.</p>
@@ -253,11 +229,7 @@ const textos = {
             <li>📈 Longevidad extendida: 5+ años de funcionamiento confiable</li>
         </ul>
         
-              <p> 
-        <strong>Precio regular:</strong> <s>$750 MXN</s><br>
-        <strong>Descuento por apertura navideña🎄</strong> –$350 MXN<br>
-        🔥 <strong >Total hoy: $400 MXN</strong>
-        </p>
+        
         
         <p style="margin:15px 0;"><strong>🎯 RECOMENDADO PARA:</strong> Gamers competitivos, streamers, usuarios intensivos (8+ horas/día)</p>
         <p><strong>🛡️ Garantía: 60 días | Incluye Reporte Técnico + Fotos Before/After</strong></p>
@@ -287,7 +259,7 @@ const textos = {
             <li><strong>Test de Rendimiento:</strong> Verificación en juegos exigentes (Zelda, Doom, Fortnite)</li>
         </ul>
         
-        <p style="margin:15px 0;"><strong>⏱️ Tiempo:</strong> 1.5 - 2 horas | <strong>💰 Precio:</strong> MX$1,150 - MX$1,650</p>
+        <p style="margin:15px 0;"><strong>⏱️ Tiempo:</strong> 3 Horas aprox </p>
         <p style="margin:15px 0;"><strong>📊 RESULTADOS TÉCNICOS ESPERADOS:</strong></p>
         <ul>
             <li>🌡️ Control térmico: Reducción de 8-12°C en gaming máximo</li>
@@ -297,11 +269,7 @@ const textos = {
             <li>🎮 Conexión Joy-Con: Estabilidad mejorada en conexiones</li>
             <li>📈 Longevidad extendida: +2 años de funcionamiento óptimo</li>
         </ul>
-            <p> 
-        <strong>Precio regular:</strong> <s>$750 MXN</s><br>
-        <strong>Descuento por apertura navideña🎄</strong> –$350 MXN<br>
-        🔥 <strong >Total hoy: $400 MXN</strong>
-        </p>
+       
         <p style="margin:15px 0;"><strong>🔋 NOTA TÉCNICA SOBRE BATERÍA:</strong></p>
         <ul>
             <li>Dispositivos con 3+ años probablemente requieren reemplazo de batería</li>
@@ -501,4 +469,5 @@ if (document.readyState === 'loading'){
  * Crea 22 partículas de efecto visual para el fondo de la página.
  * No requiere configuración adicional - funciona automáticamente.
  */
+
 
